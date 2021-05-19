@@ -72,7 +72,7 @@ echo '<a href="'.$link.'">Test Link</a>';
 
 CWA Types
 -------------------
-```
+```php
 LOCATION_TYPE_UNSPECIFIED = 0;
 LOCATION_TYPE_PERMANENT_OTHER = 1;
 LOCATION_TYPE_TEMPORARY_OTHER = 2;
