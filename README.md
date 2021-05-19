@@ -7,7 +7,7 @@ Corona-Warn-App: Documentation – Event Registration - Summary](https://github.
 
 State
 -----
-The interface works pretty well for generating the cwaPayload and a link to the CWA. For the use of the QR-Code your application must be whitelisted by CWA
+The interface works pretty well for generating the cwaPayload and a link to the CWA. For the use of the QR-Code your application must be whitelisted by CWA.
 
 Prequisites
 -----------
